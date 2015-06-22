@@ -1,0 +1,8 @@
+C:\Users\KP\Documents\Visual Studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\bin\Release\CheckDigitAlgo.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\bin\Release\CheckDigitAlgo.pdb
+C:\Users\KP\Documents\Visual Studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\obj\Release\CheckDigitAlgo.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\obj\Release\CheckDigitAlgo.pdb
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\bin\Release\CheckDigitAlgo.dll
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\bin\Release\CheckDigitAlgo.pdb
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\obj\Release\CheckDigitAlgo.dll
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\obj\Release\CheckDigitAlgo.pdb
