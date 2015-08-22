@@ -28,3 +28,5 @@ D:\drive c\admin\sourcode\CheckDigitAlgo\AlgoTester\obj\Debug\AlgoTester.csprojR
 D:\drive c\admin\sourcode\CheckDigitAlgo\AlgoTester\obj\Debug\AlgoTester.Form1.resources
 D:\drive c\admin\sourcode\CheckDigitAlgo\AlgoTester\obj\Debug\AlgoTester.Properties.Resources.resources
 D:\drive c\admin\sourcode\CheckDigitAlgo\AlgoTester\obj\Debug\AlgoTester.csproj.GenerateResource.Cache
+C:\Users\TEVE11061082.MLHUILLIER\Documents\GitHub\Check-Algorithm\Version3\CheckDigitAlgo\AlgoTester\obj\Debug\AlgoTester.exe
+C:\Users\TEVE11061082.MLHUILLIER\Documents\GitHub\Check-Algorithm\Version3\CheckDigitAlgo\AlgoTester\obj\Debug\AlgoTester.pdb
