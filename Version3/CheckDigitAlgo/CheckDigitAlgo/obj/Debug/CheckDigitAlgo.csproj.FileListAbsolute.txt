@@ -1,0 +1,13 @@
+c:\users\kp\documents\visual studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\bin\Debug\CheckDigitAlgo.dll
+c:\users\kp\documents\visual studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\bin\Debug\CheckDigitAlgo.pdb
+c:\users\kp\documents\visual studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.dll
+c:\users\kp\documents\visual studio 2013\Projects\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.pdb
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\bin\Debug\CheckDigitAlgo.dll
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\bin\Debug\CheckDigitAlgo.pdb
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.dll
+C:\Users\BOS Control\Desktop\admin\installers\client bin\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.pdb
+D:\drive c\admin\sourcode\CheckDigitAlgo\CheckDigitAlgo\bin\Debug\CheckDigitAlgo.dll
+D:\drive c\admin\sourcode\CheckDigitAlgo\CheckDigitAlgo\bin\Debug\CheckDigitAlgo.pdb
+D:\drive c\admin\sourcode\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.csprojResolveAssemblyReference.cache
+D:\drive c\admin\sourcode\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.dll
+D:\drive c\admin\sourcode\CheckDigitAlgo\CheckDigitAlgo\obj\Debug\CheckDigitAlgo.pdb
